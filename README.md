@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Routhu Daswanta kumar</h1>
 <h3 align="center">A passionate web developer from India</h3>
-<img align ="right" alt="coding" width="400" src="[https://media.licdn.com/dms/image/D4D12AQH4mcQALwgZ7Q/article-cover_image-shrink_423_752/0/1691989932072?e=1711584000&v=beta&t=2Boxvur9C3vUpwwBtIswtBAm83PYOX5Aq9Fanu9WKK0](https://iconscout.com/lottie-animation/programmer-working-on-pc-3917154)">
+<img align ="right" alt="coding" width="400" src="https://iconscout.com/lottie-animation/programmer-working-on-pc-3917154">
 
 - 🔭 I’m currently working on **Machine Learning**
 
